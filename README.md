@@ -1,4 +1,4 @@
-# Hi, I'm Prashant Suresh Yadav 👋  
+# Hi, I'm Prashant Yadav 👋  
 **B.Sc. Computer Science Graduate (2025)** • Java Full Stack Developer  
 
 ---
